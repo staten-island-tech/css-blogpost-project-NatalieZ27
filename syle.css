@@ -1,0 +1,19 @@
+.main-header {
+  width: 600px;
+  margin: auto;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 60px;
+  margin-top: 100px;
+  border: solid;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+body {
+  background-color: lightskyblue;
+}
+.alpha {
+  text-align: center;
+  margin-top: 150px;
+}
