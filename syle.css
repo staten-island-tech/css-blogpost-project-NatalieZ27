@@ -26,6 +26,8 @@ body {
 }
 a {
   color: black;
+  display: block;
+  margin: 20px auto;
 }
 a:hover {
   color: white;
